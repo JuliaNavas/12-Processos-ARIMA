@@ -1,2 +1,2 @@
-# 12-Processos-ARIMA
-Processos autorregressivos integrados de médias móveis
+# Aula-12
+Econometria Avançada - Aula 12
